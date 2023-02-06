@@ -1,0 +1,15 @@
+{
+  "name": "NAZIMUDHEEN TI",
+  "type": "personal",
+  "displayStatsPublic": true,
+  "bio": "Open Source contributer | react-native developer",
+  "tags": [
+    "Open Source",
+    "Javascript",
+    "React-native"
+  ],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/nazimudheent" },
+    { "icon": "FaGithub", "url": "https://github.com/NAZIMUDHEEN267" }
+  ]
+  
